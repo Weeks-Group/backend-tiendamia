@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Bow",
+    "description": "",
+    "price": 700,
+    "quantity": 10
+  },
+
+  {
+    "title": "Arrow",
+    "description": "Pack of 12 arrows",
+    "price": 20,
+    "quantity": 50
+  },
+
+  {
+    "title": "Quiver",
+    "description": "Leather quiver for arrows",
+    "price": 50,
+    "quantity": 20
+  },
+
+  {
+    "title": "Compound Bow",
+    "description": "Advanced compound bow",
+    "price": 1200,
+    "quantity": 5
+  },
+
+  {
+    "title": "Crossbow",
+    "description": "Powerful crossbow",
+    "price": 1000,
+    "quantity": 8
+  },
+
+  {
+    "title": "Archery Target",
+    "description": "Foam target for practice",
+    "price": 80,
+    "quantity": 15
+  },
+
+  {
+    "title": "Armguard",
+    "description": "Protective armguard for archers",
+    "price": 25,
+    "quantity": 30
+  },
+
+  {
+    "title": "Bow Stand",
+    "description": "Foldable stand for bows",
+    "price": 40,
+    "quantity": 12
+  },
+  {
+    "title": "Sight",
+    "description": "Precision sight for bows",
+    "price": 60,
+    "quantity": 25
+  },
+
+  {
+    "title": "Finger Tab",
+    "description": "Finger protection for archers",
+    "price": 15,
+    "quantity": 40
+  },
+  {
+    "title": "Bowstring",
+    "description": "Replacement bowstring",
+    "price": 30,
+    "quantity": 20
+  },
+  {
+    "title": "Broadheads",
+    "description": "Hunting broadheads (pack of 6)",
+    "price": 45,
+    "quantity": 30
+  },
+  {
+    "title": "Nocking Points",
+    "description": "Nocking points for accurate shooting",
+    "price": 10,
+    "quantity": 50
+  },
+  {
+    "title": "Release Aid",
+    "description": "Mechanical release for bows",
+    "price": 90,
+    "quantity": 7
+  },
+  {
+    "title": "Stabilizer",
+    "description": "Bow stabilizer for reduced vibration",
+    "price": 75,
+    "quantity": 18
+  },
+  {
+    "title": "Quiver Belt",
+    "description": "Adjustable belt for quivers",
+    "price": 35,
+    "quantity": 22
+  },
+  {
+    "title": "Bow Glove",
+    "description": "Protective glove for archers",
+    "price": 20,
+    "quantity": 28
+  },
+  {
+    "title": "String Wax",
+    "description": "Wax for bowstring maintenance",
+    "price": 8,
+    "quantity": 60
+  },
+
+  {
+    "title": "Bow Case",
+    "description": "Padded case for bow storage",
+    "price": 55,
+    "quantity": 13
+  },
+
+  {
+    "title": "Archery Book",
+    "description": "Guide to archery techniques",
+    "price": 25,
+    "quantity": 10
+  }
+]

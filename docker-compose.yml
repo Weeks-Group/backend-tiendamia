@@ -1,0 +1,37 @@
+version: '3.9' #specifies docker compose version
+services:
+  tiendamia:
+    container_name: tiendamia
+    build: .
+    volumes:
+      - './app:/src/app'
+
+    ports:
+      - '${PORT}:${PORT}'
+    env_file:
+      - .env
+
+    command: >
+      bash -c "npm run migration && npm run start "
+    networks:
+      - default
+
+  postgres_tiendamia:
+    image: postgres:15
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=test-tiendamia
+    logging:
+      options:
+        max-size: 10m
+        max-file: '3'
+    ports:
+      - '5440:5432'
+    networks:
+      - default
+
+networks:
+  default:
+    name: postgrest_default
