@@ -23,11 +23,6 @@ export class OrderController {
     return this.orderService.orders({});
   }
 
-  @Get('findOne/:id')
-  async getClient(@Param('id') id: number): Promise<Order> {
-    return this.orderService.order({ id: Number(id) });
-  }
-
   @UsePipes(new JoiValidationPipe(orderSchema))
   @Post()
   async createClient(@Body() order: OrderDto): Promise<Order> {
@@ -45,5 +40,9 @@ export class OrderController {
     @Query() query: { initial: Date; last: Date },
   ): Promise<Order[]> {
     return this.orderService.findOrdersTraveling(query);
+  }
+  @Get(':id')
+  async getClient(@Param('id') id: number): Promise<Order> {
+    return this.orderService.order({ id: Number(id) });
   }
 }
