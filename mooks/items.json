@@ -4,7 +4,8 @@
     "title": "Bow",
     "description": "High-quality bow for archery enthusiasts",
     "price": 700,
-    "quantity": 10
+    "quantity": 10,
+    "url": "https://www.octobermountainproducts.com/wp-content/uploads/2017/01/OMP81561-1.jpg"
   },
 
   {
@@ -12,14 +13,16 @@
     "title": "Arrow",
     "description": "Pack of 12 arrows for target practice",
     "price": 20,
-    "quantity": 50
+    "quantity": 50,
+    "url": "https://5.imimg.com/data5/MS/KC/MY-64362/archery-arrow-bow-500x500.jpg"
   },
   {
     "id": 3,
     "title": "Quiver",
     "description": "Leather quiver for holding arrows",
     "price": 50,
-    "quantity": 20
+    "quantity": 20,
+    "url": "https://www.beararchery.com/cdn/shop/products/traditionalbackquiver_quiver__at100bq_1_800x.png"
   },
 
   {
@@ -27,7 +30,8 @@
     "title": "Compound Bow",
     "description": "Advanced compound bow with adjustable settings",
     "price": 1200,
-    "quantity": 5
+    "quantity": 5,
+    "url": "https://diamondarchery.com/wp-content/uploads/2021/01/pdp-Atomic-black-profile-left-1800x1800-1-1800x1800.jpg"
   },
 
   {
@@ -35,7 +39,8 @@
     "title": "Crossbow",
     "description": "Powerful crossbow for hunting and target shooting",
     "price": 1000,
-    "quantity": 8
+    "quantity": 8,
+    "url": "https://www.tenpointcrossbows.com/wp-content/uploads/2021/12/Nitro_505_CategoryImage.png"
   },
 
   {
@@ -43,7 +48,8 @@
     "title": "Archery Target",
     "description": "Foam target for practicing accuracy",
     "price": 80,
-    "quantity": 15
+    "quantity": 15,
+    "url": "https://5.imimg.com/data5/HA/HS/MY-2604878/wooden-archery-board-500x500.jpg"
   },
 
   {
@@ -51,7 +57,8 @@
     "title": "Armguard",
     "description": "Protective armguard for archers",
     "price": 25,
-    "quantity": 30
+    "quantity": 30,
+    "url": "https://m.media-amazon.com/images/I/61ON8htN3fL._AC_UF1000,1000_QL80_.jpg"
   },
 
   {
@@ -59,7 +66,8 @@
     "title": "Bow Stand",
     "description": "Foldable stand for keeping the bow",
     "price": 40,
-    "quantity": 12
+    "quantity": 12,
+    "url": "https://lancasterarchery.com/cdn/shop/products/30400090101_grande.jpg?v=1633743593"
   },
 
   {
@@ -67,14 +75,16 @@
     "title": "Sight",
     "description": "Precision sight for improved aiming",
     "price": 60,
-    "quantity": 25
+    "quantity": 25,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQjFRXPrIuPkWfcjDGF73sik3q7mG-U_dBQ&usqp=CAU"
   },
   {
     "id": 10,
     "title": "Finger Tab",
     "description": "Finger protection for archers",
     "price": 15,
-    "quantity": 40
+    "quantity": 40,
+    "url": "https://sc01.alicdn.com/kf/HTB1XdGse7yWBuNjy0Fpq6yssXXay/230274498/HTB1XdGse7yWBuNjy0Fpq6yssXXay.jpg"
   },
 
   {
@@ -82,7 +92,8 @@
     "title": "Bowstring",
     "description": "Replacement bowstring for recurve bows",
     "price": 30,
-    "quantity": 20
+    "quantity": 20,
+    "url": "https://keshesoutdoors.com/wp-content/uploads/2018/07/71Z7nHNedNL._SY741_.jpg"
   },
 
   {
@@ -90,7 +101,8 @@
     "title": "Broadheads",
     "description": "Hunting broadheads (pack of 6)",
     "price": 45,
-    "quantity": 30
+    "quantity": 30,
+    "url": "https://i5.walmartimages.com/seo/Allen-Company-Powerpoint-Archery-Broadheads-3-Pack-100-Grains-Black-Silver_91d96d6e-e61a-415b-974d-fd5854c386bb.8ca4f30c4d7a50053b792c1dc9445555.jpeg"
   },
 
   {
@@ -98,7 +110,8 @@
     "title": "Nocking Points",
     "description": "Nocking points for consistent arrow placement",
     "price": 10,
-    "quantity": 50
+    "quantity": 50,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREs6R-Kw02uM8NQPPMDP2TUGUzcJYvXwkdVg&usqp=CAU"
   },
 
   {
@@ -106,7 +119,8 @@
     "title": "Release Aid",
     "description": "Mechanical release for precise shots",
     "price": 90,
-    "quantity": 7
+    "quantity": 7,
+    "url": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2022/05/Tru-Fire-Smoke-Buckle-Foldback.jpg"
   },
 
   {
@@ -114,7 +128,8 @@
     "title": "Stabilizer",
     "description": "Bow stabilizer for reduced vibration",
     "price": 75,
-    "quantity": 18
+    "quantity": 18,
+    "url": "https://m.media-amazon.com/images/I/61AukDMk3oL.jpg"
   },
 
   {
@@ -122,7 +137,8 @@
     "title": "Quiver Belt",
     "description": "Adjustable belt for securing the quiver",
     "price": 35,
-    "quantity": 22
+    "quantity": 22,
+    "url": "https://m.media-amazon.com/images/I/61NY1rxYWiL._AC_UF1000,1000_QL80_.jpg"
   },
 
   {
@@ -130,7 +146,8 @@
     "title": "Bow Glove",
     "description": "Protective glove for archers",
     "price": 20,
-    "quantity": 28
+    "quantity": 28,
+    "url": "https://i.ebayimg.com/images/g/c8AAAOSw55ZgQYP4/s-l1600.jpg"
   },
 
   {
@@ -138,7 +155,8 @@
     "title": "String Wax",
     "description": "Wax for bowstring maintenance",
     "price": 8,
-    "quantity": 60
+    "quantity": 60,
+    "url": "https://m.media-amazon.com/images/I/716q3-CyVZL._AC_UF894,1000_QL80_.jpg"
   },
 
   {
@@ -146,7 +164,8 @@
     "title": "Bow Case",
     "description": "Padded case for safe bow storage",
     "price": 55,
-    "quantity": 13
+    "quantity": 13,
+    "url": "https://www.primos.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dwd5ad9e3a/images/large/65634_Bow_Case_Hero_Image.jpg"
   },
 
   {
@@ -154,6 +173,7 @@
     "title": "Archery Book",
     "description": "Guidebook to archery techniques",
     "price": 25,
-    "quantity": 10
+    "quantity": 10,
+    "url": "https://m.media-amazon.com/images/I/51mF8fdZrmL.jpg"
   }
 ]
