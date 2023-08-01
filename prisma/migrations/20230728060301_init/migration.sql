@@ -1,2 +1,0 @@
--- AlterTable
-ALTER TABLE "Item" ALTER COLUMN "url" DROP NOT NULL;
