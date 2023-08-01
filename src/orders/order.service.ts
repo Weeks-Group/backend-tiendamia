@@ -18,7 +18,7 @@ export class OrderService {
   ): Promise<Order | null> {
     return this.prisma.order.findUnique({
       where: orderWhereUniqueInput,
-      include: { items: { include: { item: true } } },
+      include: { items: { include: { item: true } }, client: true },
     });
   }
 
@@ -36,7 +36,7 @@ export class OrderService {
       cursor,
       where,
       orderBy,
-      include: { items: { include: { item: true } } },
+      include: { items: { include: { item: true } }, client: true },
     });
   }
 
@@ -91,7 +91,7 @@ export class OrderService {
           lte: date.add(2, 'day').toISOString(),
         },
       },
-      include: { items: { include: { item: true } } },
+      include: { items: { include: { item: true } }, client: true },
     });
   }
 
@@ -104,7 +104,7 @@ export class OrderService {
           lte: dayjs(last).toISOString(),
         },
       },
-      include: { items: { include: { item: true } } },
+      include: { items: { include: { item: true } }, client: true },
     });
   }
 
