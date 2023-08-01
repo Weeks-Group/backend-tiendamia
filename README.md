@@ -17,3 +17,32 @@ This repository use Docker, only you need to run and create this is :
 ## Dump data
 When your get up backend for first time, you can create mook data with endpoint dump (look in postman).
 This create items, clients and orders by defaults.
+
+
+## Scaffolding
+
+```
+├── src
+├───api_rest    
+├──── schemas
+├──── controller
+├──── module
+├──── service
+├── app
+├─── controller
+├─── service
+├─── controller
+├── pipe
+├─── joi_validation
+├── prisma 
+├── mocks 
+```
+
+
+### Technologies
+
+ - Nestjs (Framework typescript)
+ - Prisma (ORM DB)
+ - Docker (Container)
+ - Postgres (DB)
+ - AWS (Deploy)
